@@ -17,7 +17,6 @@ class House:
         return f'Название: {self.name}, кол-во этажей: {self.number_of_floors}'
 
 
-
 h1 = House('ЖК Горский', 18)
 h2 = House('Домик в деревне', 2)
 # h1.go_to(5)
